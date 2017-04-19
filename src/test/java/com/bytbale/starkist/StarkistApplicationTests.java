@@ -1,4 +1,4 @@
-package com.intel.aa.smoove;
+package com.bytbale.starkist;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
